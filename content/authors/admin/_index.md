@@ -29,41 +29,41 @@ bio: My research interests include cost-effectiveness Modelling, Health Technolo
 
 # Interests to show in About widget
 interests:
-  - Cost-Effectiveness modelling 
-  - Health Technology Assessment 
-  - Health management and policy
+  - Health technology assessment
+  - Cost-effectiveness modelling 
+  - Epidemiology and Pharmacoepidemiology
 
 # Education to show in About widget
 education:
   courses:
-    - course: Master in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Medical Science in Health economics, policy and management
+      institution: Karolinsika Institutet, Stockholm, Sweden
+      year: 2022-2024
+    - course: BSc Hons in Biochemistry and Pharmocology
+      institution: University of Strathclyde, Glasgow, UK
+      year: 2018-2022
+    - course: B.S. in Pharmacy
+      institution: China Pharmaceutical University, Nanjing, China
+      year: 2018-2022
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        icon: r
+        icon_pack: fas
+      - name: Data Analysis
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Modelling including Markov model and Decision tree
         description: ''
-        percent: 40
+        percent: 70
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -75,10 +75,10 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog 
         icon_pack: fas
       - name: Photography
         description: ''
