@@ -77,7 +77,7 @@ skills:
         icon_pack: fas
       - name: Dogs
         description: ''
-        percent: 100
+        percent: 80
         icon: dog 
         icon_pack: fas
       - name: Cooking
@@ -93,16 +93,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:meijia.huang@stud.ki.se'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/meijia-huang-122927254
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
