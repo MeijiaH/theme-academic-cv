@@ -31,7 +31,7 @@ bio: My research interests include cost-effectiveness Modelling, Health Technolo
 interests:
   - Health technology assessment
   - Cost-effectiveness modelling 
-  - Epidemiology 
+  - Epidemiology in non-communicable diseases
 
 # Education to show in About widget
 education:
@@ -108,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Meijia Huang is a master student of Health economcis at Karolinska Institutet. Her research interests include cost-effectiveness modelling, health technology assessment and epidemiology in non-communicable diseases. She is working on the thesis on assessing cost-effectivness of one diagnostic test for patients with supected cornonary artery disease in Stockholm Center For Health Economics(StoCHE).
 {style="text-align: justify;"}
