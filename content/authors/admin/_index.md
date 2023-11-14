@@ -29,8 +29,8 @@ bio: My research interests include cost-effectiveness Modelling, Health Technolo
 
 # Interests to show in About widget
 interests:
-  - Health technology assessment
-  - Cost-effectiveness modelling 
+  - Health Economics 
+  - Healthcare Service Research
   - Epidemiology 
 
 # Education to show in About widget
