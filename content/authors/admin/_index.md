@@ -25,13 +25,13 @@ organizations:
     url: https://ki.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cost-effectiveness Modelling, Health Technology Assessment, and Health management & policy.
+bio: My research interests include cost-effectiveness Modelling, Health Technology Assessment, Epidemiology and Health management & policy.
 
 # Interests to show in About widget
 interests:
   - Health technology assessment
   - Cost-effectiveness modelling 
-  - Epidemiology and Pharmacoepidemiology
+  - Epidemiology 
 
 # Education to show in About widget
 education:
@@ -56,14 +56,14 @@ skills:
         percent: 80
         icon: r
         icon_pack: fas
-      - name: Data Analysis
-        description: ''
-        percent: 80
-        icon: chart-line
-        icon_pack: fas
-      - name: Modelling including Markov model and Decision tree
+      - name: Data Analysis with STATA and SPSS
         description: ''
         percent: 70
+        icon: chart-line
+        icon_pack: fas
+      - name: Modelling skills including Markov model and Decision tree
+        description: ''
+        percent: 90
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -80,10 +80,10 @@ skills:
         percent: 100
         icon: dog 
         icon_pack: fas
-      - name: Photography
+      - name: Cooking
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 50
+        icon: cookie-bite
         icon_pack: fas
 
 # Social/Academic Networking
@@ -100,12 +100,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
