@@ -25,7 +25,7 @@ organizations:
     url: https://ki.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cost-effectiveness Modelling, Health Technology Assessment, Epidemiology and Health management & policy.
+bio: My research interests include cost-effectiveness Modelling, Health Technology Assessment, Epidemiology in non-communicable diseases.
 
 # Interests to show in About widget
 interests:
