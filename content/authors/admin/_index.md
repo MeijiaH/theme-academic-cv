@@ -25,13 +25,13 @@ organizations:
     url: https://ki.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cost-effectiveness Modelling, Health Technology Assessment, Epidemiology in non-communicable diseases.
+bio: My research interests include cost-effectiveness Modelling, Health Technology Assessment, Health Policy.
 
 # Interests to show in About widget
 interests:
-  - Health Economics 
-  - Healthcare Service Research
-  - Epidemiology 
+  - Cost-effectivness modelling
+  - AI-based health technology assessment 
+  - Healthcare service research
 
 # Education to show in About widget
 education:
@@ -51,20 +51,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: R
-        description: ''
-        percent: 80
-        icon: r
-        icon_pack: fas
-      - name: Data Analysis with STATA and SPSS
-        description: ''
-        percent: 70
-        icon: chart-line
-        icon_pack: fas
       - name: Modelling skills including Markov model and Decision tree
         description: ''
         percent: 90
         icon: database
+        icon_pack: fas
+      - name: R
+        description: ''
+        percent: 70
+        icon: r
+        icon_pack: fas
+      - name: Data Analysis with STATA or SPSS
+        description: ''
+        percent: 70
+        icon: chart-line
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -72,18 +72,18 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-hiking
         icon_pack: fas
-      - name: Dogs
+      - name: Cats
         description: ''
         percent: 80
-        icon: dog 
+        icon: cat 
         icon_pack: fas
-      - name: Cooking
+      - name: Music
         description: ''
-        percent: 50
-        icon: cookie-bite
+        percent: 60
+        icon: music
         icon_pack: fas
 
 # Social/Academic Networking
@@ -108,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-Meijia Huang is a master student of Health economcis at Karolinska Institutet. Her research interests include cost-effectiveness modelling, health technology assessment and epidemiology in non-communicable diseases. She is working on the thesis on assessing cost-effectivness of a proposed diagnostic test for patients with supected cornonary artery disease in Stockholm Center For Health Economics(StoCHE).
+Meijia Huang is a master student of Health economcis at Karolinska Institutet. Her research interests include health economics, health technology assessment and healthcare service. She is working on the thesis on assessing cost-effectivness of a proposed diagnostic test for patients with supected cornonary artery disease in Stockholm Center For Health Economics(StoCHE).
 {style="text-align: justify;"}
