@@ -108,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-Meijia Huang is a master student of Health economcis at Karolinska Institutet. Her research interests include health economics, health technology assessment and healthcare service. She is working on the thesis on assessing cost-effectivness of a proposed diagnostic test for patients with supected cornonary artery disease in Stockholm Center For Health Economics(StoCHE).
+Meijia Huang is a master student of Health economcis at Karolinska Institutet. Her research interests include health economics, health technology assessment and health policy. She is working on the thesis on assessing cost-effectivness of a proposed diagnostic test for patients with supected cornonary artery disease in Stockholm Center For Health Economics(StoCHE).
 {style="text-align: justify;"}
